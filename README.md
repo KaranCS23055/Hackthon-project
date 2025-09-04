@@ -39,25 +39,6 @@ Make sure both files are in the same folder. Inside your `index.html` file’s `
 ```html
 <link rel="stylesheet" href="style.css">
 
-⚙️ How to Run
-
-Download or clone this project.
-
-Ensure index.html and style.css are in the same directory.
-
-Open index.html in any modern web browser.
-
-💡 Future Improvements
-
-Add JavaScript for form validation and interactivity
-
-Connect to a backend authentication system (Node.js, PHP, Firebase)
-
-Add accessibility features (ARIA labels, keyboard navigation)
-
-Include success/error messages and animations
-
-Implement dark/light mode toggle
 
 🧑‍💻 Author
 
