@@ -6,7 +6,7 @@ A sleek, modern, and responsive login form built with **HTML5** and **CSS3**. Th
 
 ## 🖼️ Preview
 
-> ![Login Form Preview]([https://codingstella.com/wp-content/uploads/2024/01/download-6-scaled.jpeg](https://codingstella.com/wp-content/uploads/2024/01/photo1701345034-1024x576.jpeg))  
+> ![Login Form Preview]([https://codingstella.com/wp-content/uploads/2024/01/download-6-scaled.jpeg](https://codingstella.com/wp-content/uploads/2024/01/photo1701345034-1024x576.jpeg)  
 > *(This is a placeholder background image used in the form)*
 
 ---
